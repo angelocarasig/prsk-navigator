@@ -6,6 +6,8 @@ Last Updated: 7th March 2023
 ## **About**
 This project ideally lets users navigate around Project Sekai JP easier through this simulated 'translated' experience (the extent of this translation is DeepL, Google Translate and my own understandings).
 
+You can view the project page [here](https://angelocarasig.github.io/prsk-navigator/)
+
 ----
 ## **To-Do List (Buttons):**
 - ~~Main Page~~
