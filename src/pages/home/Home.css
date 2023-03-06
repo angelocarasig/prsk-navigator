@@ -1,0 +1,78 @@
+button.World {
+    top: 14px;
+    left: 13px;
+    width: 79px;
+    height: 83px;
+}
+
+button.CrystalAdd {
+    top: 30px;
+    left: 930px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+button.EnergyAdd {
+    top: 30px;
+    left: 1110px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+button.Menu {
+    top: 14px;
+    left: 1187px;
+    width: 79px;
+    height: 83px;
+}
+
+button.Present {
+    top: 134px;
+    left: 1187px;
+    width: 79px;
+    height: 83px;
+}
+
+button.Checklist {
+    top: 247px;
+    left: 1187px;
+    width: 79px;
+    height: 83px;
+}
+
+button.Friend {
+    top: 356px;
+    left: 1187px;
+    width: 79px;
+    height: 83px;
+}
+
+button.Gacha {
+    top: 615px;
+    left: 391px;
+    width: 197px;
+    height: 78px;
+}
+
+button.Members {
+    top: 615px;
+    left: 599px;
+    width: 197px;
+    height: 78px;
+}
+
+button.Story {
+    top: 615px;
+    left: 805px;
+    width: 197px;
+    height: 78px;
+}
+
+button.Live {
+    top: 615px;
+    left: 1013px;
+    width: 239px;
+    height: 78px;
+}
