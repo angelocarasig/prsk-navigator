@@ -5,7 +5,7 @@ import './Menu.css';
 
 const Menu = () => {
   return (
-    <img src={Screenshot}/>
+    <img src={Screenshot} alt='some-screenshot'/>
   )
 };
 
